@@ -3,7 +3,7 @@
 ## Description
 Site to practice HTML and CSS.
 
-.PSD available in: https://free-psd-templates.com/free-psd-template-landing-page-3/
+Layout available in: https://free-psd-templates.com/free-psd-template-landing-page-3/
 
 ## Languages
 - HTML5
