@@ -11,8 +11,8 @@ Site to practice HTML and CSS.
 
 ## Sections
 - [X] Main - :white_check_mark:
-- [ ] Our Story - :soon: developing
-- [ ] Singatures Recipes - :soon: developing
+- [X] Our Story - :white_check_mark:
+- [X] Singatures Recipes - :white_check_mark:
 - [ ] Our Menu - :soon: developing
 - [ ] Sitemap/Contact - :soon: developing
 - [ ] Footer - :soon: developing
