@@ -1,0 +1,119 @@
+/* RESET */
+
+body, h1, h2, p, ul, li, a {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Imagens responsivas sem estourar o container */
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* HEADER */
+
+.header {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(/img/bg_banner.png);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+/* MENU */
+.menu {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 60px 0 0 0;
+    align-items: center;
+}
+
+.menu>a {
+    color: #FFFFFF;
+    font-size: 1.875em;
+    font-weight: 300;
+    padding: 15px;
+}
+
+.menu ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu ul li a {
+    color: #FFFFFF;
+    font-size: 1em;
+    font-weight: 300;
+    margin: 0 10px;
+    padding: 15px;
+}
+
+.menu ul li a:hover {
+    border-bottom: 2px solid;
+}
+
+/* HEADER INFO */
+.header-info {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin: 0;
+    max-width: 730px;
+    text-align: center;
+}
+
+.header-info h1 {
+    font-size: 4.5em;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.header-info p {
+    font-size: 1.125;
+    font-weight: 300;
+}
+
+/* NOSSA HISTORIA */
+.ourstory {
+     background: #962323;
+}
+
+.ourstory-container {
+    max-width: 1170px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.ourstory-img {
+    flex: 1 1 445px
+}
+
+.ourstory-info {
+    flex: 1;
+}
