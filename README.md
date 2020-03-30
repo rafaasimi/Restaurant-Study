@@ -15,7 +15,7 @@ Layout available in: https://free-psd-templates.com/free-psd-template-landing-pa
 - [X] Singatures Recipes - :white_check_mark:
 - [X] Our Menu - :white_check_mark:
 - [X] Sitemap/Contact - :white_check_mark:
-- [ ] Footer - :soon: developing
+- [X] Footer - :white_check_mark:
 
 ## Layout
 ![Layout Restaurant](https://raw.githubusercontent.com/rafaasimi/Restaurant-Study/master/img/restaurant.jpg)
