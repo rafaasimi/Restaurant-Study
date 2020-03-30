@@ -192,7 +192,7 @@ html {
 }
 
 .ourmenu h1 {
-    display: inline-block;
+    display: block;
     font-family: 'Dancing Script', cursive;
     font-size: 3.5em;
     color: #0b0c0d;
@@ -305,5 +305,32 @@ html {
 .footer {
     background: #16171b;
     padding: 60px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
+.footer p, a {
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.footer p {
+    margin-right: 80px;
+}
+
+.footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 80px;
+}
+
+.footer ul li {
+    margin-right: 15px;
+}
+
+.footer span {
+    margin-left: -5px;
+    margin-right: 15px;
+}
