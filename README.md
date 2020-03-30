@@ -13,8 +13,8 @@ Layout available in: https://free-psd-templates.com/free-psd-template-landing-pa
 - [X] Main - :white_check_mark:
 - [X] Our Story - :white_check_mark:
 - [X] Singatures Recipes - :white_check_mark:
-- [ ] Our Menu - :soon: developing
-- [ ] Sitemap/Contact - :soon: developing
+- [X] Our Menu - :white_check_mark:
+- [X] Sitemap/Contact - :white_check_mark:
 - [ ] Footer - :soon: developing
 
 ## Layout
